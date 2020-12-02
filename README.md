@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![No](https://cdn.discordapp.com/emojis/736252108696977471.png "Disaster")
 <!--
 **FlashyReese/FlashyReese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
