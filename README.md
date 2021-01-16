@@ -1,4 +1,11 @@
-![No](https://cdn.discordapp.com/emojis/736252108696977471.png "Disaster")
+![Me](https://cdn.discordapp.com/emojis/736252108696977471.png "Disaster")
+
+- 🌌 Working on Java and Rust
+- 💥 Learning about Web Development and Web Deployment
+- 🚀 Would love to learn more on Graphics Programming
+- 📡 Looking to spend more time learning
+
+
 <!--
 **FlashyReese/FlashyReese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
