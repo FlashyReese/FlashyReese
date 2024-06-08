@@ -1,6 +1,6 @@
 ![Me](https://cdn.discordapp.com/emojis/736252108696977471.png "Disaster")
 
-- 📅 I'm currently away for the next four months
+- 📅 I'm currently away for the next few weeks
 <!--
 - 🌌 Working on Java and Rust
 - 🚀 Would love to learn more on Graphics Programming
